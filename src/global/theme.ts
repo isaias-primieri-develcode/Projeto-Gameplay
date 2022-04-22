@@ -7,6 +7,7 @@ export const theme = {
       primaryDark :'#D10930',
       primary     :'#E51C44',
       primaryLight:'#F72E56',
+      primaryNegative: '#07b39c',
 
       secondary100:'#0A1033',
       secondary90 :'#0D133D',
