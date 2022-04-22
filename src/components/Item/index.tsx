@@ -52,7 +52,7 @@ export function Item({keyId} : Props){
                             <Image source={Agenda} style={styles.agenda}/>
                         </View>
                         <Text style={styles.match}>
-                            {keyId.date} às {keyId.hour}
+                            {keyId.date} às {keyId.hour}.
                         </Text>
                     </View>
                 </View>
