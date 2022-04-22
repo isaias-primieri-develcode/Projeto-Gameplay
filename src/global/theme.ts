@@ -2,6 +2,7 @@ import { Inter_400Regular, Inter_500Medium } from '@expo-google-fonts/inter';
 import { Rajdhani_700Bold, Rajdhani_500Medium } from '@expo-google-fonts/rajdhani';
 
 
+
 export const theme = {
     colors: {
       primaryDark :'#D10930',
